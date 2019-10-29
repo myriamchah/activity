@@ -1,0 +1,13 @@
+.tab {
+  color: black;
+  cursor: pointer;
+  margin-right: 16px;
+  opacity: .4;
+  padding-bottom: 8px;
+  border-bottom: 3px solid transparent;
+}
+
+.active {
+  opacity: 1 !important;
+  border-bottom: 3px solid #555555;
+}
